@@ -53,3 +53,6 @@ Stack trace:
 [08-Dec-2020 01:44:23 Europe/Berlin] PHP Notice:  Undefined offset: 76 in C:\xampp\htdocs\WordFind\indic-wp\hindi_parser.php on line 21
 [08-Dec-2020 01:44:23 Europe/Berlin] PHP Notice:  Undefined offset: 77 in C:\xampp\htdocs\WordFind\indic-wp\hindi_parser.php on line 18
 [08-Dec-2020 01:44:23 Europe/Berlin] PHP Notice:  Undefined offset: 77 in C:\xampp\htdocs\WordFind\indic-wp\hindi_parser.php on line 21
+[30-Dec-2022 20:43:28 Europe/Berlin] PHP Warning:  Undefined array key "categoryId" in C:\xampp\htdocs\WordFind\category.php on line 6
+[30-Dec-2022 20:43:28 Europe/Berlin] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\WordFind\category.php on line 16
+[30-Dec-2022 20:43:28 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\WordFind\category.php on line 16

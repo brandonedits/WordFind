@@ -22,12 +22,12 @@
 
                         <div class="form-group">
                             <label for="loginEmail" class="col-form-label">Email:</label>
-                            <input type="email" class="form-control" id="loginEmail">
+                            <input type="email" class="form-control" id="loginEmail" value="admin">
                         </div>
 
                         <div class="form-group">
                             <label for="loginPassword" class="col-form-label">Password:</label>
-                            <input type="password" class="form-control" id="loginPassword" name="password">
+                            <input type="password" class="form-control" id="loginPassword" name="password" value="abc123">
                         </div>
 
                         <div class="row">
